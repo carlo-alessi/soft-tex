@@ -1,5 +1,5 @@
 ## SoftTex: Soft robotic arm with learning-based textile proprioception
-This work presents a deep learning approach for proprioception in soft robots, leveraging recurrent neural networks trained on sensor and actuation data to accurately estimate the robot's position while maintaining its inherent compliance.
+SoftTex presents a deep learning approach for proprioception in soft robots, leveraging recurrent neural networks trained on sensor and actuation data to accurately estimate the robot's position while maintaining its inherent compliance.
 
 ### 📚 Learn more
 This article is published in *IEEE Robotics and Automation Letters (RA-L)*: [IEEE Xplore Link](https://ieeexplore.ieee.org/abstract/document/10904302)
